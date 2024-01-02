@@ -65,8 +65,8 @@
 ![image](https://github.com/23000966/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/153983364/a3cb67d4-9150-4ae7-96ae-bec59bc08a5c)
 ![image](https://github.com/23000966/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/153983364/5617d177-470c-49c7-93a0-c2e73d686049)
 
-### Name: SANTHOSH KUMAR R
-### Register Number:23000966
+### Name: DILIP SANJAY M
+### Register Number:23014243
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
